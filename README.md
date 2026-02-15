@@ -15,6 +15,11 @@
 
 Twitterで御連絡を頂くのも歓迎しております。
 
+## mmd 2 svg
+```
+mmdc -i v4.mmd -o v4.svg -s 4 -C style.css
+```
+
 ## License
 This work is licensed under CC BY 4.0. 
 See [LICENSE](LICENSE) file for details.
