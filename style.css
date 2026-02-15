@@ -1,0 +1,3 @@
+svg .grid .tick line {
+  stroke-dasharray: 1 1;
+}
